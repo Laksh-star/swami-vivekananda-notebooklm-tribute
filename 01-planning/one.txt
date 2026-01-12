@@ -1,1 +1,17 @@
+You are helping me design an engaging, time‑efficient single NotebookLM notebook to celebrate Swami Vivekananda Jayanti (12 January, National Youth Day in India).
 
+Within this one notebook, propose 8–10 concrete ‘sections’ or ‘use‑cases’ (e.g., youth-focused reflection guide, speech‑prep assistant, quote explorer, quiz generator), each described in 2–3 sentences and tailored for NotebookLM’s features (sources, notes, guides, podcasts, mind maps, flashcards).
+
+For each section, give step‑by‑step implementation inside the same notebook: what documents or links to upload, how to organise sources and notes, which NotebookLM tools to use (summaries, flashcards, quizzes, overviews), and example custom instructions/prompts.
+
+Include at least 3 sections that require customisation (custom instructions, role prompts, or specific workflows) and clearly label what to customise and why it improves learning or engagement.
+
+For every section, estimate effort in three buckets: (a) researching/finding materials, (b) preparing or supplying documents, and (c) in‑NotebookLM work.
+
+Prioritise sections that can be completed within 1–2 focused sessions (under 2–3 hours each) and explicitly indicate which ones are ‘quick wins’.
+
+Present the answer as:
+
+A short table listing all sections with columns: ‘Section name’, ‘Goal’, ‘Needs customisation? (Y/N)’, ‘Overall effort level’, ‘Quick win? (Y/N)’.
+
+Then a section for each idea with numbered implementation steps and copy‑paste‑ready sample prompts/instructions optimised for use inside a single NotebookLM notebook.
