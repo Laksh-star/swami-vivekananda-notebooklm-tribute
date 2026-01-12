@@ -7,7 +7,7 @@ Companion Repository for the Notebook in NotebookLM
 > preserving any wisdom tradition.
 
 **Live Notebook:** [Swami Vivekananda Jayanti – National Youth Day](https://notebooklm.google.com/notebook/640e6379-42fe-4d04-bf93-52796fdd290c)  
-**Medium Article:** [The Monk Meets the Machine](#)
+**Medium Article:** [The Monk Meets the Machine](https://medium.com/@LakshmiNarayana_U/the-monk-meets-the-machine-24e76d2f0ea0)
 
 ---
 
